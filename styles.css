@@ -1,0 +1,48 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(76, 76, 201);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(76, 76, 201);
+}
+
+.ep1 {
+    background: rgb(21, 41, 66);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 150px;
+}
+
+.ep2 {
+    padding: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.ep3 {
+    padding: 30px;
+}
+
+h3 {
+    font-size: 30px;
+}
